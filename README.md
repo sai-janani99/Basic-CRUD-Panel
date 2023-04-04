@@ -27,6 +27,10 @@ This is a basic CRUD Application to add,edit,view,search and delete customer det
 ```
 MONGODB_URI = mongodb+srv://<username>:<password>@mongodburlhere
 ```
+## Demo
+https://user-images.githubusercontent.com/63198668/229792114-b6ad1126-af6f-4edb-b134-c5ad9983fa47.mp4
+
+
 
 ## Installation
 To install and run this project - install dependencies using npm and then start your server:
